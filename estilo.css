@@ -1,0 +1,53 @@
+#conteudo{
+width:1080px;
+background-color:#FFFFF0;
+margin:auto;
+}
+
+body {
+	background: #5D4157; 
+	background: linear-gradient(to right, #000000, #000000);      /* Mudar os dois "#000000" q são as cores de fundo do site.*/ 
+	font-family: SourceSansPro, "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:0;
+	line-height:1.4;
+	color:black;
+}
+
+#menu{
+background-color:#CEE3F6;             /* Mudar o "#CEE3F6" q é a cor de fundo onde tá o meu nome.*/
+height:40px;
+font-size:25;
+text-align:center;
+}
+
+#box1{{
+background-color:#F7F8E0;             /* Mudar o "#F7F8E0" q é a cor de fundo onde tá o meu endereço.*/
+height:380px;
+width:60%px;
+text-align:middle;
+line-height:100%;
+padding-left:80px;
+padding-top:15px;
+}
+
+#box2{
+background-color:#E6E6E6;              /* Mudar o "#E6E6E6" q é a cor de fundo onde tá o meus detalhes.*/
+height:auto;
+width:auto;
+text-align:left;
+line-height:25px;
+padding-left:5px;
+}
+
+#rodape{
+background-color:#CEE3F6;              /* Mudar o "#F7F8E0" q é a cor de fundo onde tá o curriculum vitae.*/
+height:50px;
+text-align:center;
+line-height:50px;
+font-style:Verdana,italic;
+font-size:15px;
+}
+
+p,h2,h1,h3{
+margin:2;	
+} 
