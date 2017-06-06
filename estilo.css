@@ -6,7 +6,7 @@ margin:auto;
 
 body {
 	background: #5D4157; 
-	background: linear-gradient(to right, #98FB98, #98FB98);      
+	background: linear-gradient(to right, #A4A4A4,#A4A4A4);      
 	font-family: SourceSansPro, "Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin:0;
 	line-height:1.4;
@@ -14,7 +14,7 @@ body {
 }
 
 #menu{
-background-color:#7CFC00;            
+background-color:#FA5858;            
 font-size:25;
 text-align:center;
 }
@@ -38,15 +38,10 @@ line-height:25px;
 padding-left:5px;
 }
 
-#rodape{
-background-color:#00FF7F;              
-height:50px;
-text-align:center;
-line-height:50px;
-font-style:Verdana,italic;
-font-size:15px;
-}
-
 p,h2,h1,h3{
 margin:2;	
 } 
+
+.imageright{
+padding-right:15px;
+}
